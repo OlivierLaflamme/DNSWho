@@ -1,0 +1,15 @@
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\DnsLoader.exe
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\DnsLoader.deps.json
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\DnsLoader.runtimeconfig.json
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\DnsLoader.runtimeconfig.dev.json
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\DnsLoader.dll
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\DnsLoader.pdb
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\bin\Debug\netcoreapp3.1\ARSoft.Tools.Net.dll
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.csprojAssemblyReference.cache
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.AssemblyInfoInputs.cache
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.AssemblyInfo.cs
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.csproj.CoreCompileInputs.cache
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.csproj.CopyComplete
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.dll
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.pdb
+C:\Users\VM_Windows\Desktop\dns\DnsLoader\DnsLoader\obj\Debug\netcoreapp3.1\DnsLoader.genruntimeconfig.cache

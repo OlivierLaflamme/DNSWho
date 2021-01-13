@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "EE7tT2rZU+4anQtyp3mfN4OmvBnjb94RytNzegHUhBM/C0sRDvU+GOconF+ijcYo8JP5YZavST1boNnP9HGOVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VM_Windows\\Desktop\\dns\\DnsLoader\\DnsLoader\\DnsLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VM_Windows\\.nuget\\packages\\arsoft.tools.net\\1.8.2\\arsoft.tools.net.1.8.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ARSoft.Tools.Net 1.8.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ARSoft.Tools.Net",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

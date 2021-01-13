@@ -1,0 +1,15 @@
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.csprojAssemblyReference.cache
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.AssemblyInfoInputs.cache
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.AssemblyInfo.cs
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.csproj.CoreCompileInputs.cache
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\SharpDNS.exe
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\SharpDNS.deps.json
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\SharpDNS.runtimeconfig.json
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\SharpDNS.runtimeconfig.dev.json
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\SharpDNS.dll
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\SharpDNS.pdb
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\bin\Debug\netcoreapp3.1\ARSoft.Tools.Net.dll
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.csproj.CopyComplete
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.dll
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.pdb
+C:\Users\VM_Windows\Desktop\dns\SharpDNS\SharpDNS\obj\Debug\netcoreapp3.1\SharpDNS.genruntimeconfig.cache
