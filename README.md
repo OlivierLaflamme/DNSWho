@@ -16,6 +16,9 @@ So generate a raw cs payload if you are smart you wont make it stageless because
 ![image](https://user-images.githubusercontent.com/25066959/104516517-78955100-55c2-11eb-99ce-2d8a5daf6e9a.png)                       
 
 Then spinup the DNS server and make sure that the length is the same in wireshark as the one displayed in the terminal. `SharpDNS.exe beacon.bin`                       
+The output will look like the following:                
+
+![image](https://user-images.githubusercontent.com/25066959/105061777-e4a30980-5a47-11eb-906f-cdc712b8ae01.png)            
 
 ![image](https://user-images.githubusercontent.com/25066959/104516603-a24e7800-55c2-11eb-9805-fc644b49b11b.png)                         
 
