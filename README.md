@@ -35,6 +35,9 @@ Tada...
 
 
 -----
+
+### Having Issues?     
+
 If you get the following error this is because youre not running this on the same machine as your DNS. That is because svchost.exe listens to UDP53
 
 ![image](https://user-images.githubusercontent.com/25066959/104516892-1d179300-55c3-11eb-91e6-92c9c5aa2884.png)
